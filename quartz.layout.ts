@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
+    //<p>© {year} <strong>Sai Singh Parihar</strong> · Built with ❤️ · Maintained by <strong>Sai Singh Parihar</strong></p>
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
