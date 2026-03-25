@@ -1,5 +1,5 @@
 ---
-title: What is Sparrow?
+title: What is the Boundary Administration Tool a.k.a Sparrow?
 tags:
   - COTW
   - ACHIEVE
@@ -10,6 +10,7 @@ modified: 2026-03-25
   <br>
   <br>
   
+
 
 **Sparrow** is a **map-based administrative tool** that allows users to:
 
@@ -29,7 +30,7 @@ modified: 2026-03-25
 
 ---
 
-# **2. Why is it used?**
+# **1. Why is it used?**
 
 
 ## **Core Purpose**
@@ -56,7 +57,7 @@ modified: 2026-03-25
 
 ---
 
-# **3. How the Tool Works (Conceptual Flow)**
+# **2. How the Tool Works (Conceptual Flow)**
 
 ```mermaid
 flowchart LR
@@ -71,7 +72,7 @@ G --> H[Publish to iShare]
 
 ---
 
-# **4. How to Use Sparrow (Step-by-Step)**
+# **3. How to Use Sparrow (Step-by-Step)**
 
 ---
 
@@ -205,8 +206,6 @@ Effects:
 
 ---
 
-### **🖼️ Add Image**
-
 ![[Sparrowv2.SaveEdits.png]]
 
 ---
@@ -217,8 +216,6 @@ Effects:
     
 
 ---
-
-### **🖼️ Add Image**
 
 ![[Sparrowv2.ExitEditMode.png]]
 
@@ -242,8 +239,6 @@ Effects:
 
 ---
 
-### **🖼️ Add Image**
-
 ![[Sparrowv2.ChangeHistory.png]]
 
 ![[Sparrowv2.Changeset.png]]
@@ -259,8 +254,6 @@ Effects:
     
 
 ---
-
-### **🖼️ Add Image**
 
 ![[Sparrowv2.SubmitForApproval.png]]
 
@@ -286,13 +279,11 @@ Effects:
 
 ---
 
-### **🖼️ Add Image**
-
 ![[Sparrowv2.PendingApproval.png]]
 
 ---
 
-# **5. Key Benefits**
+# **4. Key Benefits**
 
   
 
@@ -319,7 +310,7 @@ Effects:
 
 ---
 
-# **6. Common Problems ⚠️ / Hurdles**
+# **5. Common Problems ⚠️ / Hurdles**
 
   
 
@@ -378,7 +369,7 @@ Effects:
 
 ---
 
-# **7. Key Concepts You Must Understand 🧠 **
+# **6. Key Concepts You Must Understand 🧠 **
 
   
 
@@ -401,7 +392,7 @@ Effects:
 
 ---
 
-# **8. Final Summary (TL;DR)**
+# **7. Final Summary (TL;DR)**
 
   
 
