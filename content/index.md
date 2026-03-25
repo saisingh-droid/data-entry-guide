@@ -36,7 +36,7 @@ To get the most value from this guide, follow the recommended learning path:
 	> 
 	> Center Point Maps
 	> - [[1. How to set a Paul’s Location]]
-	> - [[2. How to set Center Point Map]]
+	> - [[2. How to set TCTA?]]
 	> - [[3. How to update CPM]]
 	> - [[4. How to enter surveys]]
 	> - [[5. How to print CPM]]
