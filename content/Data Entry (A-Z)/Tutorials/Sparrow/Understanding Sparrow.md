@@ -9,7 +9,7 @@ modified: 2026-03-25
 ---
   <br>
   <br>
-  
+  ## **1. What is the Boundary Administration Tool a.k.a ==Sparrow==??**
 
 
 **Sparrow** is a **map-based administrative tool** that allows users to:
@@ -85,7 +85,6 @@ G --> H[Publish to iShare]
 
 ---
 
-### **🖼️ Add Image**
 
 ![[Sparrowv2.CountryMap.png]]
 
