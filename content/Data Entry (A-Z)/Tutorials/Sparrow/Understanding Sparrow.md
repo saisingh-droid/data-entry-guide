@@ -31,7 +31,7 @@ modified: 2026-03-25
 
 ---
 
-## **1. Why is it ==used==?**
+## 2. Why is it used?
 
 
 ## **Core Purpose**
@@ -58,7 +58,7 @@ modified: 2026-03-25
 
 ---
 
-## **2. How the Tool Works (Conceptual Flow)**
+## 3. How the Tool Works (Conceptual Flow)
 
 ```mermaid
 flowchart LR
@@ -73,7 +73,7 @@ G --> H[Publish to iShare]
 
 ---
 
-## **3. How to Use Sparrow (Step-by-Step)**
+## 4. How to Use Sparrow (Step-by-Step)
 
 ---
 
@@ -281,7 +281,7 @@ Effects:
 
 ---
 
-# **4. Key Benefits**
+# 5. Key Benefits
 
   
 
@@ -308,7 +308,7 @@ Effects:
 
 ---
 
-## **5. Common Problems ⚠️ / Hurdles**
+## 6. Common Problems ⚠️ / Hurdles
 
   
 
@@ -367,7 +367,7 @@ Effects:
 
 ---
 
-## **6. Key Concepts You Must Understand 🧠 **
+## 7. Key Concepts You Must Understand 🧠 **
 
   
 
@@ -390,12 +390,11 @@ Effects:
 
 ---
 
-## **7. Final Summary (TL;DR)**
+## 8. Final Summary (TL;DR)
 
   
 
 > [!abstract]
-
 > **Sparrow is a controlled GIS editing tool for managing village boundaries with a structured approval workflow.**
 
   
