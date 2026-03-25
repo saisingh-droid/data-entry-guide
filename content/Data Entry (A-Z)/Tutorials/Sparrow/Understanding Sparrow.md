@@ -1,5 +1,5 @@
 ---
-title: Understanding Sparrow
+title: What is Sparrow?
 tags:
   - COTW
   - ACHIEVE
