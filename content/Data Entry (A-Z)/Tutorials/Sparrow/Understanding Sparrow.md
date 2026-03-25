@@ -9,7 +9,8 @@ modified: 2026-03-25
 ---
   <br>
   <br>
-  ## **1. Understanding the Boundary Administration Tool a.k.a ==Sparrow==??**
+  
+  ## 1. Understanding the ==Boundary Administration Tool a.k.a Sparrow==??
 
 
 **Sparrow** is a **map-based administrative tool** that allows users to:
@@ -30,7 +31,7 @@ modified: 2026-03-25
 
 ---
 
-## **1. Why is it used?**
+## **1. Why is it ==used==?**
 
 
 ## **Core Purpose**
