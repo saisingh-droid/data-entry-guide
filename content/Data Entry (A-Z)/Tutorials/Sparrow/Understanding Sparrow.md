@@ -1,5 +1,5 @@
 ---
-title: 1. What is Sparrow ?
+title: 1. What is Sparrow?
 tags:
   - COTW
   - ACHIEVE
