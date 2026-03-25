@@ -30,7 +30,7 @@ modified: 2026-03-25
 
 ---
 
-# **1. Why is it used?**
+## **1. Why is it used?**
 
 
 ## **Core Purpose**
@@ -57,7 +57,7 @@ modified: 2026-03-25
 
 ---
 
-# **2. How the Tool Works (Conceptual Flow)**
+## **2. How the Tool Works (Conceptual Flow)**
 
 ```mermaid
 flowchart LR
@@ -72,7 +72,7 @@ G --> H[Publish to iShare]
 
 ---
 
-# **3. How to Use Sparrow (Step-by-Step)**
+## **3. How to Use Sparrow (Step-by-Step)**
 
 ---
 
@@ -112,7 +112,6 @@ Includes:
 
 ---
 
-### **🖼️ Add Image**
 
 ![[Sparrowv2.Adm3Villages.png]]
 
@@ -162,7 +161,6 @@ Effects:
 
 ---
 
-### **🖼️ Add Image**
 
 ![[Sparrowv2.AddVillage.png]]
 
@@ -310,7 +308,7 @@ Effects:
 
 ---
 
-# **5. Common Problems ⚠️ / Hurdles**
+## **5. Common Problems ⚠️ / Hurdles**
 
   
 
@@ -369,7 +367,7 @@ Effects:
 
 ---
 
-# **6. Key Concepts You Must Understand 🧠 **
+## **6. Key Concepts You Must Understand 🧠 **
 
   
 
@@ -392,7 +390,7 @@ Effects:
 
 ---
 
-# **7. Final Summary (TL;DR)**
+## **7. Final Summary (TL;DR)**
 
   
 
