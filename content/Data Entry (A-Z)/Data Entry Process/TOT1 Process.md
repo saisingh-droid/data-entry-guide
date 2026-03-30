@@ -114,6 +114,11 @@ To create TCTA for Pauls, Training Centers must first be available in iMetrics.
 - **Establish Location:** Set the TCTA based strictly on the Training Center location, not the Paul’s residence (unless it is the Training Center)  
 - **Paul Verification:** Present the generated TCTA map to the Paul for review  
 - **Handle Feedback:** If the Paul reports missing villages or provides survey updates, do not make immediate changes  
+
+> [!danger] Missing Villages
+> Follow the guidelines and verification steps outlined in [[3. how to enter CP Track#📍 Location Verification Guidelines]] before marking any village as a **missing village**.  
+> After completing those checks, refer to [[2. how to add missing village#How to Perform Additional Checks / Validation Before Marking Village(s) as Missing]].
+
 - **Escalate:** Consult the Master Trainer (MT) to verify any feedback before proceeding  
 
 > [!IMPORTANT]
